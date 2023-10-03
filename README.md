@@ -1,8 +1,8 @@
-# Khaana - Online Food Ordering App
+# Khaana - Online Food Ordering Web App
 
 ![Khaana Logo](./images/logo.png)
 
-Khaana is a web-based platform that allows users to browse a variety of restaurants, select dishes, and place orders for delivery or pickup. This app provides a seamless experience for food enthusiasts to satisfy their cravings from the comfort of their homes.
+Khaana is a web-based platform that allows users to browse a variety of restaurants, select dishes, and place orders for delivery or pickup. This web app provides a seamless experience for food enthusiasts to satisfy their cravings from the comfort of their homes.
 
 ## Table of Contents
 
@@ -113,4 +113,4 @@ This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.
 
 ---
 
-For any issues or inquiries, please contact [support@khaana.com](mailto:support@khaana.com).
+For any issues or inquiries, please contact [dileep18052001@gmail.com](mailto: dileep18052001@gmail.com).
